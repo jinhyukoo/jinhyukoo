@@ -1,4 +1,4 @@
-### Hi there 👋
+## 안녕하세요~ Jinhyukoo입니다! 👋
 
 <!--
 **jinhyukoo/jinhyukoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript
-- 🔭 I’m studying for FE developer
+- 🌱 현재 Node.js를 활용하여 웹개발을 공부하고 있습니다.
+- 🔭 Front-End 개발자가 되고 싶습니다.
+- 👯 혼자하는 것 보다는 함께 공부하거나 함께 작업할 때 더 행복합니다.
