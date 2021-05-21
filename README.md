@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 JavaScript와 Node.js를 활용하여 웹개발을 공부하고 있습니다.
+- 🌱 JavaScript와 React를 활용하여 웹개발을 공부하고 있습니다.
 - 🔭 Front-End 개발자가 되고 싶습니다.
 - 👯 함께 나아가는 것을 추구합니다. 협업을 사랑합니다.
 - 🙌 항상 긍정적으로 살기 위해 노력합니다.
