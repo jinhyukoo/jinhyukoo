@@ -1,4 +1,4 @@
-## 안녕하세요~ 항상 행복한 Jinhyukoo입니다! 👋
+## 협업을 사랑하는 개발자 Jinhyukoo입니다 👋
 
 <!--
 **jinhyukoo/jinhyukoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 JavaScript와 React를 활용하여 웹개발을 공부하고 있습니다.
-- 🔭 Front-End 개발자가 되고 싶습니다.
-- 👯 함께 나아가는 것을 추구합니다. 협업을 사랑합니다.
-- 🙌 항상 긍정적으로 살기 위해 노력합니다.
-- 🔍 새로운 것에 도전하는 것을 좋아합니다.
-- 🌞 사용자와 개발자 모두를 위한 개발자가 되고 싶습니다.
+😊 About
+- 웹 프론트엔드 개발자입니다
+- 도전을 좋아합니다
+- 뭐든 함께 하는 것을 좋아합니다
+
+📝 Blog
+- [이전 블로그](https://jinhyukoo.github.io/)
+- [벨로그](https://velog.io/@jinhyukoo)
